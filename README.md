@@ -1,2 +1,0 @@
-# physics1
-physics
